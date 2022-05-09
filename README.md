@@ -1,25 +1,24 @@
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Gurushesh Pawar - Web Developer">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Saurabh kumar - Web Developer">
 
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ```javascript
 
-Currently open for full-time/intern job roles in frontend development & UI development
+Currently open for full-time/intern job roles in frontend development
 ```
 
-<h3>I'm Gurushesh Pawar, a passionate FrontEnd Web Developer from India</h3>
+<h3>I'm Saurabh Kumar, a passionate FrontEnd Web Developer from India</h3>
 
 - 🔭 I’m currently working on **Front-end projects**
 - 🌱 I’m currently learning **React.js and NodeJS**
-- 📫 How to reach me: [LinkedIn - @gurusheshp](https://www.linkedin.com/in/gurusheshp/)
+- 📫 How to reach me: [LinkedIn - @saurabh-kud](https://www.linkedin.com/in/saurabh-kud/)
 
 ### Skills
 
-- Languages - JAVA, `Javascript`, HTML, CSS & `SCSS`
-- Libraries & Frameworks - `Bootstrap`, Jquery & `ReactJS`
-- Databases - Firebase, MySql & MongoDB
+- Languages - C++, `Javascript`, HTML, CSS 
+- Libraries & Frameworks -  `ReactJS`
 - Tools and Technologies - Git, NPM, Yarn, Github-Pages, Vercel, Netlify,
-- Areas for interests - `Web Development`, `Frontend Development`, `UI Design/Development` & `Digital Marketing`
+- Areas for interests - `Web Development`, `Frontend Development`, `UI Design/Development`
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -47,7 +46,7 @@ Currently open for full-time/intern job roles in frontend development & UI devel
 ## Github Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-kud&layout=compact&theme=white" alt="gurupawar" width=48%" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-kud&layout=compact&theme=white" alt="saurabh-kud" width=48%" >
   <img src="https://github-readme-stats.vercel.app/api?username=saurabh-kud&&show_icons=true&theme=graywhite" align="right" width="48%">
 </p>
 
