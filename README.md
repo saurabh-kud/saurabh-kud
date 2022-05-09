@@ -20,7 +20,7 @@ Currently open for full-time/intern job roles in frontend development
 - Tools and Technologies - Git, NPM, Yarn, Github-Pages, Vercel, Netlify,
 - Areas for interests - `Web Development`, `Frontend Development`, `UI Design/Development`
 
-<!-- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p>
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,7 +41,7 @@ Currently open for full-time/intern job roles in frontend development
  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-</p> -->
+</p> 
 
 ## Github Stats
 
