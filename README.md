@@ -49,5 +49,5 @@ Currently open for full-time/intern job roles in frontend development
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-kud&layout=compact&theme=white" alt="saurabh-kud" width=48%" >
   <img src="https://github-readme-stats.vercel.app/api?username=saurabh-kud&&show_icons=true&theme=graywhite" align="right" width="48%">
 </p>
-
-                                                                                                                                       [![Saurabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saurabh-kud&theme=xcode)](https://git.io/saurabh-kud)
+                                                                                                                                       
+[![Saurabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saurabh-kud&theme=xcode)](https://git.io/saurabh-kud)
