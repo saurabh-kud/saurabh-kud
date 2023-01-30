@@ -46,7 +46,8 @@ Currently open for full-time/intern job roles in frontend development
 ## Github Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-kud&layout=compact&theme=white" alt="saurabh-kud" width=48%" >
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh-kud&&show_icons=true&theme=graywhite" align="right" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-kud&layout=compact&theme=algolia" alt="saurabh-kud" width=48%" >
+                                                                                                                                         
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh-kud&&show_icons=true&theme=algolia" align="right" width="48%">
 </p>
                                                                                                                                        
