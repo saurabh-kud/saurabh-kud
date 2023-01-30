@@ -7,15 +7,15 @@
 Currently open for full-time/intern job roles in frontend development
 ```
 
-<h3>I'm Saurabh Kumar, a passionate FrontEnd Web Developer from India</h3>
+<h3>I'm Ankit Prajapati, a passionate Android & Ios Developer from India</h3>
 
-- 🔭 I’m currently working on **Front-end projects**
-- 🌱 I’m currently learning **React.js and NodeJS**
-- 📫 How to reach me: [LinkedIn - @saurabh-kud](https://www.linkedin.com/in/saurabh-kud/)
+<!-- - 🔭 I’m currently working on **Front-end projects** -->
+<!-- - 🌱 I’m currently learning **React.js and NodeJS** -->
+- 📫 How to reach me: [LinkedIn - @ankitkumar70179](https://www.linkedin.com/in/ankitkumar70179/)
 
 ### Skills
 
-- Languages - C++, `Javascript`, HTML, CSS 
+- Languages - C++, `Javascript`, HTML, CSS , Java , Dart , Swift ,Kotlin, C sharp
 - Libraries & Frameworks -  `ReactJS`
 - Tools and Technologies - Git, NPM, Yarn, Github-Pages, Vercel, Netlify,
 - Areas for interests - `Web Development`, `Frontend Development`, `UI Design/Development`
@@ -46,8 +46,8 @@ Currently open for full-time/intern job roles in frontend development
 ## Github Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-kud&layout=compact&theme=white" alt="saurabh-kud" width=48%" >
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh-kud&&show_icons=true&theme=graywhite" align="right" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDeveloper1-kud&layout=compact&theme=white" alt="XDeveloper1" width=48%" >
+  <img src="https://github-readme-stats.vercel.app/api?username=XDeveloper1&&show_icons=true&theme=graywhite" align="right" width="48%">
 </p>
                                                                                                                                        
-[![Saurabh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saurabh-kud&theme=xcode)](https://git.io/saurabh-kud)
+[![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=XDeveloper1&theme=xcode)](https://git.io/XDeveloper1)
