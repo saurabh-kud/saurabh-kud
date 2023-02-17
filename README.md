@@ -7,16 +7,16 @@
 Currently open for full-time/intern job roles in frontend development
 ```
 
-<h3>I'm Saurabh Kumar, a passionate FrontEnd Web Developer from India</h3>
+<h3>I'm Saurabh Kumar, a passionate FullStack Web Developer from India</h3>
 
-- 🔭 I’m currently working on **Front-end projects**
+- 🔭 I’m currently working on **Full-Stack projects**
 - 🌱 I’m currently learning **React.js and NodeJS**
 - 📫 How to reach me: [LinkedIn - @saurabh-kud](https://www.linkedin.com/in/saurabh-kud/)
 
 ### Skills
 
-- Languages - C++, `Javascript`, HTML, CSS 
-- Libraries & Frameworks -  `ReactJS`
+- Languages - C++, `Javascript`, HTML, CSS, NODE
+- Libraries & Frameworks -  `ReactJS` `Express`
 - Tools and Technologies - Git, NPM, Yarn, Github-Pages, Vercel, Netlify,
 - Areas for interests - `Web Development`, `Frontend Development`, `UI Design/Development`
 
