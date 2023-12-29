@@ -4,7 +4,7 @@
 
 ```javascript
 
-Currently open for full-time/intern job roles in frontend development
+Currently open for full-time/intern job roles in Full Stack development
 ```
 
 <h3>I'm Saurabh Kumar, a passionate FullStack Web Developer from India</h3>
@@ -18,7 +18,7 @@ Currently open for full-time/intern job roles in frontend development
 - Languages - C++, `Javascript`, HTML, CSS, NODE
 - Libraries & Frameworks -  `ReactJS` `Express`
 - Tools and Technologies - Git, NPM, Yarn, Github-Pages, Vercel, Netlify,
-- Areas for interests - `Web Development`, `Frontend Development`, `UI Design/Development`
+- Areas for interests - `Full Stack Development`, `Backend Developmemt`, `Frontend Development`
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
